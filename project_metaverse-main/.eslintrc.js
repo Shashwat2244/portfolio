@@ -3,6 +3,9 @@ module.exports = {
     browser: true,
     es2021: true,
   },
+  rules: {
+    quotes: [2, single, {avoidEscape: true}]
+  },
   extends: [
     'plugin:react/recommended',
     'airbnb',
