@@ -22,7 +22,7 @@ const About = () => (
         variants={fadeIn('up', 'tween', 0.2, 1)}
         className="mt-[8px] font-normal sm:text-[32px] text-[20px] text-center text-secondary-white"
       >
-        I am a <span className="font-extrabold text-white">Software Developer</span> and competitive coding enthusiast who is into MERN Stack development. My skillset includes 
+        I am a <span className="font-extrabold text-white">Software Developer</span> and competitive coding enthusiast who is into MERN Stack development currently working at Mindsprint as Associate Software Consultant. My skillset includes 
         {' '}
         <span className="font-extrabold text-white">
           Java, Front-End Development, MERN Stack, Python and MySQL.
