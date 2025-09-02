@@ -46,7 +46,7 @@ export const startingFeatures = [
 export const experienceFeatures = [
   {
     id: 'exp-2',
-    imgUrl: '/bg1.jpg',
+    imgUrl: '/bg2.jpg',
     title: 'Associate Software Consultant - Mindsprint (01/2025 - Present)',
   },{
     id: 'exp-1',
