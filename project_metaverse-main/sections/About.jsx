@@ -29,7 +29,7 @@ const About = () => (
         </span>{' '}
         With a solid foundation in HTML, CSS, and JavaScript, coupled with my keen back-end skills in MongoDB and Node.JS, I bring a dynamic and versatile skill set to the table.{' '}
         As a proactive learner, I am enthusiastic about collaborating with teams to craft exceptional applications, contributing to the ever-evolving landscape of technology.{' '}
-        <br></br><br></br><a href="https://drive.google.com/file/d/1JjXMGzgJ9q2wtiygyfLQGsfNCe7N80Ab/view?usp=drive_link" Download="Shashwat_Shrivastava.pdf" target='blank'><button className='cvButton'>Download Resume (CV)</button></a>
+        <br></br><br></br><a href="https://drive.google.com/file/d/1sQUS9ao4oVm-8RenTNpbP_lwDT2pz0vU/view?usp=sharing" Download="Shashwat_Shrivastava.pdf" target='blank'><button className='cvButton'>Download Resume (CV)</button></a>
         <a href="https://drive.google.com/file/d/1wg4hzPwd82z-mxYQiNsxlhNEnBO99Iaz/view?usp=drive_link" Download="Shashwat_Hackathons.pdf" target='blank'><button className='cvButton'>Competitions Participation</button></a>
       </motion.p>
 
