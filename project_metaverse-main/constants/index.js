@@ -38,7 +38,7 @@ export const exploreWorlds = [
 ];
 
 export const startingFeatures = [
-  'Manipal University Jaipur (2021-2025) : B.Tech-CSE (CGPA: 8.75)',
+  'Manipal University Jaipur (2021-2025) : B.Tech-CSE (CGPA: 8.81)',
   'Anupama Higher Secondary School : 12th (Marks - 88.4%)',
   'Christukula Mission Higher Secondary School : 10th (Marks - 89.6%)',
 ];
@@ -49,7 +49,11 @@ export const experienceFeatures = [
     link: 'https://drive.google.com/drive/folders/1wIk3bxch2mcXD6V7HzD5PWH_FxYnw5fG?usp=sharing',
     imgUrl: '/bg1.jpg',
     title: 'Web Development Intern - Baskethunt Pvt. Ltd. (08/2023 - 10/2023)',
-  },
+  },{
+    id: 'exp-2',
+    imgUrl: '/bg1.jpg',
+    title: 'Associate Software Consultant - Mindsprint (01/2025 - Present)',
+  }
 ]
 
 export const newFeatures = [
