@@ -45,14 +45,14 @@ export const startingFeatures = [
 
 export const experienceFeatures = [
   {
+    id: 'exp-2',
+    imgUrl: '/bg1.jpg',
+    title: 'Associate Software Consultant - Mindsprint (01/2025 - Present)',
+  },{
     id: 'exp-1',
     link: 'https://drive.google.com/drive/folders/1wIk3bxch2mcXD6V7HzD5PWH_FxYnw5fG?usp=sharing',
     imgUrl: '/bg1.jpg',
     title: 'Web Development Intern - Baskethunt Pvt. Ltd. (08/2023 - 10/2023)',
-  },{
-    id: 'exp-2',
-    imgUrl: '/bg1.jpg',
-    title: 'Associate Software Consultant - Mindsprint (01/2025 - Present)',
   }
 ]
 
